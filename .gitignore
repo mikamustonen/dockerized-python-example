@@ -1,0 +1,6 @@
+# The file Make uses to track when the Docker image was last built
+.build
+
+.venv
+__pycache__
+.idea
